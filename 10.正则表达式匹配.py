@@ -76,6 +76,5 @@
 # @lc code=start
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
-        
+        pass
 # @lc code=end
-
